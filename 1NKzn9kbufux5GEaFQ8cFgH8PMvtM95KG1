@@ -1,6 +1,6 @@
 <channels></channels>
 
-<channel>
+<channels>
 	<name>Filmes</name>
 	<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2019%2F07%2F25%2Fnoticias%2Fgoogle-play-passa-a-vender-filmes-da-marvel-disney-e-pixar-em-4k%2F&psig=AOvVaw1100ZnYgOaDilV5PFD9Z7Q&ust=1614940406732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjihIC4lu8CFQAAAAAdAAAAABAD</thumbnail>
 	
@@ -16,7 +16,7 @@
 			<info>Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência.</info>
 		</item>
 	</channel>
-</channel>
+</channels>
 
 <channel>
 	<name>Séries</name>
