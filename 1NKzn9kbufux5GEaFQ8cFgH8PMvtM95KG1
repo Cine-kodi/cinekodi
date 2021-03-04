@@ -19,20 +19,6 @@
 </channel>
 
 <channel>
-		<name>[COLOR yellow]Teste[/COLOR]</name>
-		<thumbnail></thumbnail>
-
-		<item>
-			<title>[COLOR orange]Outro Teste[/COLOR]</title>
-			<link></link>
-			<thumbnail></thumbnail>
-			<fanart></fanart>
-			<info></info>
-			<page></page>
-		</item>
-</channel>
-
-<channel>
 	<name>Séries</name>
 	<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theyoungfolks.com%2Freview%2F57144%2Fteen-wolf-5-things-that-need-to-happen-in-season-five%2F2%2F&psig=AOvVaw2i3edF_GYrvacBUGmCg6oW&ust=1614940116568000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDLv_i2lu8CFQAAAAAdAAAAABAE</thumbnail>
 	
