@@ -1,19 +1,20 @@
 <channels></channels>
 <channel>
-<name>Filmes</name>
-<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2019%2F07%2F25%2Fnoticias%2Fgoogle-play-passa-a-vender-filmes-da-marvel-disney-e-pixar-em-4k%2F&psig=AOvVaw1100ZnYgOaDilV5PFD9Z7Q&ust=1614940406732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjihIC4lu8CFQAAAAAdAAAAABAD</thumbnail>
+	<name>Filmes</name>
+	<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2019%2F07%2F25%2Fnoticias%2Fgoogle-play-passa-a-vender-filmes-da-marvel-disney-e-pixar-em-4k%2F&psig=AOvVaw1100ZnYgOaDilV5PFD9Z7Q&ust=1614940406732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjihIC4lu8CFQAAAAAdAAAAABAD</thumbnail>
 	
-<channel>
-<name>Categorias</name>
-<thumbnail></thumbnail>
+	<channel>
+		<name>Categorias</name>
+		<thumbnail></thumbnail>
 
-<item>
-<title>Lançamentos</title>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/filmes-lan%C3%A7amentos</externallink>
-<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.waufen.com.br%2Ffilmes-2020-40-lancamentos-afetados-pelo-coronavirus%2F&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAJ</thumbnail>
-<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loucosporfilmes.net%2Fp%2Fproximos-lancamentos-breve-nos-cinemas.html&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAP</fanart>
-<info></info>
-</item>
+		<item>
+			<title>Lançamentos</title>
+			<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/filmes-lan%C3%A7amentos</externallink>
+			<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.waufen.com.br%2Ffilmes-2020-40-lancamentos-afetados-pelo-coronavirus%2F&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAJ</thumbnail>
+			<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loucosporfilmes.net%2Fp%2Fproximos-lancamentos-breve-nos-cinemas.html&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAP</fanart>
+			<info></info>
+		</item>
+	</channel>
 </channel>
 
 <channel>
