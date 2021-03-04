@@ -1,13 +1,10 @@
-<channels></channels>
+<channels>
 <channel>
-	<name>Filmes</name>
-	<thumbnail></thumbnail>
-
-	<item>
-		<title>Lançamentos</title>
-		<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/filmes-lan%C3%A7amentos</externallink>
-		<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.waufen.com.br%2Ffilmes-2020-40-lancamentos-afetados-pelo-coronavirus%2F&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAJ</thumbnail>
-		<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loucosporfilmes.net%2Fp%2Fproximos-lancamentos-breve-nos-cinemas.html&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAP</fanart>
-		<info></info>
-	</item>
+<name>Filmes</name>
+<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoletivonerd.com.br%2Fviuva-negra-adiado-para-2021%2F&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAW</thumbnail>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/filmes-lan%C3%A7amentos</externallink>
+<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loucosporfilmes.net%2Fp%2Fproximos-lancamentos-breve-nos-cinemas.html&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAP</fanart>
+<info></info>
+</item>
 </channel>
+</channels>
