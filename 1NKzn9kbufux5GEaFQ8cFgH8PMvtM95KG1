@@ -1,22 +1,21 @@
-<channels></channels>
-
+<channels>
 <channel>
-	<name>Filmes</name>
-	<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2019%2F07%2F25%2Fnoticias%2Fgoogle-play-passa-a-vender-filmes-da-marvel-disney-e-pixar-em-4k%2F&psig=AOvVaw1100ZnYgOaDilV5PFD9Z7Q&ust=1614940406732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjihIC4lu8CFQAAAAAdAAAAABAD</thumbnail>
+<name>Filmes</name>
+<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2019%2F07%2F25%2Fnoticias%2Fgoogle-play-passa-a-vender-filmes-da-marvel-disney-e-pixar-em-4k%2F&psig=AOvVaw1100ZnYgOaDilV5PFD9Z7Q&ust=1614940406732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjihIC4lu8CFQAAAAAdAAAAABAD</thumbnail>
+	
+<channel>
+<name></name>
+<thumbnail></thumbnail>
 
-	<channel>
-		<name>Monster Hunter</name>
-		<thumbnail>https://th.bing.com/th/id/R6eccdcf5b50a755e1a8e43e5e6bfbec3?rik=5RdL9%2bBAof40Tg&riu=http%3a%2f%2fde.web.img3.acsta.net%2fpictures%2f20%2f10%2f16%2f11%2f22%2f5962337.jpg&ehk=T6KkCOa7018Q2k1uod%2bxGvM4BxX1GvymWiBnfr0XwX8%3d&risl=&pid=ImgRaw</thumbnail>
-
-		<item>
-			<title>Monster Hunter</title>
-			<link>magnet:?xt=urn:btih:acafe25caeb3dcf08fee90cdfceea808c0c71e44&dn=COMOEUBAIXO.COM..Monster.Hunter.2020.1080p.WEBRip.Official.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-			<thumbnail>https://th.bing.com/th/id/R6eccdcf5b50a755e1a8e43e5e6bfbec3?rik=5RdL9%2bBAof40Tg&riu=http%3a%2f%2fde.web.img3.acsta.net%2fpictures%2f20%2f10%2f16%2f11%2f22%2f5962337.jpg&ehk=T6KkCOa7018Q2k1uod%2bxGvM4BxX1GvymWiBnfr0XwX8%3d&risl=&pid=ImgRaw</thumbnail>
-			<fanart>https://i0.wp.com/www.nerdtrip.com.br/wp-content/uploads/2021/02/Monster-Hunter-02.jpg?fit=1280%2C720&ssl=1</fanart>
-			<info>Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência.</info>
-		</item>
-	</channel>
+<item>
+<title>Lançamentos</title>
+<externallink></externallink>
+<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.waufen.com.br%2Ffilmes-2020-40-lancamentos-afetados-pelo-coronavirus%2F&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAJ</thumbnail>
+<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loucosporfilmes.net%2Fp%2Fproximos-lancamentos-breve-nos-cinemas.html&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAP</fanart>
+<info></info>
+</item>
 </channel>
+</channels>
 
 <channel>
 	<name>Séries</name>
