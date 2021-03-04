@@ -1,13 +1,37 @@
 <channels></channels>
-<channel>
-<name>Monster Hunter</name>
-<thumbnail>https://th.bing.com/th/id/R6eccdcf5b50a755e1a8e43e5e6bfbec3?rik=5RdL9%2bBAof40Tg&riu=http%3a%2f%2fde.web.img3.acsta.net%2fpictures%2f20%2f10%2f16%2f11%2f22%2f5962337.jpg&ehk=T6KkCOa7018Q2k1uod%2bxGvM4BxX1GvymWiBnfr0XwX8%3d&risl=&pid=ImgRaw</thumbnail>
 
-<item>
-<title>Monster Hunter</title>
-<link>magnet:?xt=urn:btih:acafe25caeb3dcf08fee90cdfceea808c0c71e44&dn=COMOEUBAIXO.COM..Monster.Hunter.2020.1080p.WEBRip.Official.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<thumbnail>https://th.bing.com/th/id/R6eccdcf5b50a755e1a8e43e5e6bfbec3?rik=5RdL9%2bBAof40Tg&riu=http%3a%2f%2fde.web.img3.acsta.net%2fpictures%2f20%2f10%2f16%2f11%2f22%2f5962337.jpg&ehk=T6KkCOa7018Q2k1uod%2bxGvM4BxX1GvymWiBnfr0XwX8%3d&risl=&pid=ImgRaw</thumbnail>
-<fanart>https://i0.wp.com/www.nerdtrip.com.br/wp-content/uploads/2021/02/Monster-Hunter-02.jpg?fit=1280%2C720&ssl=1</fanart>
-<info>Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência.</info>
-</item>
+<channel>
+	<name>Filmes</name>
+	<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2019%2F07%2F25%2Fnoticias%2Fgoogle-play-passa-a-vender-filmes-da-marvel-disney-e-pixar-em-4k%2F&psig=AOvVaw1100ZnYgOaDilV5PFD9Z7Q&ust=1614940406732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjihIC4lu8CFQAAAAAdAAAAABAD</thumbnail>
+	
+	<channel>
+		<name>Monster Hunter</name>
+		<thumbnail>https://th.bing.com/th/id/R6eccdcf5b50a755e1a8e43e5e6bfbec3?rik=5RdL9%2bBAof40Tg&riu=http%3a%2f%2fde.web.img3.acsta.net%2fpictures%2f20%2f10%2f16%2f11%2f22%2f5962337.jpg&ehk=T6KkCOa7018Q2k1uod%2bxGvM4BxX1GvymWiBnfr0XwX8%3d&risl=&pid=ImgRaw</thumbnail>
+
+		<item>
+			<title>Monster Hunter</title>
+			<link>magnet:?xt=urn:btih:acafe25caeb3dcf08fee90cdfceea808c0c71e44&dn=COMOEUBAIXO.COM..Monster.Hunter.2020.1080p.WEBRip.Official.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+			<thumbnail>https://th.bing.com/th/id/R6eccdcf5b50a755e1a8e43e5e6bfbec3?rik=5RdL9%2bBAof40Tg&riu=http%3a%2f%2fde.web.img3.acsta.net%2fpictures%2f20%2f10%2f16%2f11%2f22%2f5962337.jpg&ehk=T6KkCOa7018Q2k1uod%2bxGvM4BxX1GvymWiBnfr0XwX8%3d&risl=&pid=ImgRaw</thumbnail>
+			<fanart>https://i0.wp.com/www.nerdtrip.com.br/wp-content/uploads/2021/02/Monster-Hunter-02.jpg?fit=1280%2C720&ssl=1</fanart>
+			<info>Em um mundo além do nosso, perigosos e poderosos monstros comandam com sua mortal ferocidade. Quando a Tenente Artemis e seus leais soldados são transportados para lá, ela lidera uma batalha desesperada pela sobrevivência.</info>
+		</item>
+	</channel>
+</channel>
+
+<channel>
+	<name>Séries</name>
+	<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theyoungfolks.com%2Freview%2F57144%2Fteen-wolf-5-things-that-need-to-happen-in-season-five%2F2%2F&psig=AOvVaw2i3edF_GYrvacBUGmCg6oW&ust=1614940116568000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDLv_i2lu8CFQAAAAAdAAAAABAE</thumbnail>
+	
+	<channel>
+		<name>The Flash</name>
+		<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FThe_Flash_(2.%25C2%25AA_temporada)&psig=AOvVaw1e8ylJKwb13zl6r4GBcQOw&ust=1614940527441000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDqt7i4lu8CFQAAAAAdAAAAABAD</thumbnail>
+
+		<item>
+			<title>7ª Temporada</title>
+			<link>magnet:?xt=urn:btih:1e52387104fdc7fcbe697c0957bd8ae72faf9063&dn=COMOEUBAIXO.COM.-LEGENDADO-.The.Flash.2014.S07E01.Alls.Well.That.Ends.Wells.1080p.HDTV.x264-aFi%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2850&tr=udp%3A%2F%2F9.rarbg.to%3A2760</link>
+			<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Farrow.fandom.com%2Fpt-br%2Fwiki%2F7%25C2%25AA_Temporada_(Flash)&psig=AOvVaw1e8ylJKwb13zl6r4GBcQOw&ust=1614940527441000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDqt7i4lu8CFQAAAAAdAAAAABAK</thumbnail>
+			<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Farrow.fandom.com%2Fpt-br%2Fwiki%2F7%25C2%25AA_Temporada_(Flash)&psig=AOvVaw1e8ylJKwb13zl6r4GBcQOw&ust=1614940527441000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDS6v24lu8CFQAAAAAdAAAAABAb</fanart>
+			<info>Barry Allen e seus aliados continuam seus esforços para resgatar Iris do Universo Espelho.</info>
+		</item>
+	</channel>
 </channel>
