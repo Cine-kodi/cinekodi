@@ -1,6 +1,6 @@
-<channels>
+<channels></channels>
 <channel>
-<name>WandaVision</name>
+<name><b>Wanda</b>[b]Vision[/b]</name>
 <thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
 <extenallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/Temporadas</externallink>
 <fanart>https://wallpapercave.com/wp/wp4919979.jpg</fanart>
@@ -16,5 +16,3 @@
 </info>
 </item>
 </channel>
-</channels>
-
