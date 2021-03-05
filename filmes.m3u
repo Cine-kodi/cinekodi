@@ -1,0 +1,113 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://imgur.com/HuUXI15.jpg" pltv-name="---☛★FORMIGAtv★☚---" pltv-description="CANAIS" pltv-cover="https://imgur.com/Q4R1Kc7.jpg" pltv-author="Dyego Formiga(Billscar's)" pltv-email="Se não for no ---☛★FORMIGAtv★☚---Oficial@e.falso"
+###########################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://imgur.com/HuUXI15.jpg" pltv-subgroup="Formiga_INFO" ,Sua Nova Forma De Ver TV!!
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://www.repullo.com.br/blogmagic/wp-content/uploads/2012/11/upgrade-big.jpg" pltv-subgroup="Formiga_INFO" ,Sempre Atualizando.: 28/08 - 10:14
+Http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://imgur.com/0o0INYL.jpg" pltv-subgroup="Formiga_INFO" ,NÃO DEIXE A LISTA MORRER - DOE - AG.:0115 / Cc.:18286-9 !!!
+http://0.0.0.0 
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" pltv-subgroup="Formiga_INFO" ,Links TEMPORARIOS - Usem IPTV EXTREME!!!
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://images.e-konomista.pt/articles/850_400_male-hand-holding-tv-remote-control_1509116888.jpg" pltv-subgroup="Formiga_INFO" ,Lista Completa Sem Travas 37-99874-7838
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://images.e-konomista.pt/articles/850_400_male-hand-holding-tv-remote-control_1509116888.jpg" pltv-subgroup="Formiga_INFO" ,Mais Brinde de 4 Lista EXCLUSIVA
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/1zvq1rn.jpg" pltv-subgroup="Formiga_INFO" ,Precisando de BOX - Katia Rainha dos Box - (11)97190-1106
+http://0.0.0.0
+
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",18 SBT TV JORNAL PE 
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",Ricos TV
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",AGRO TV 
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",APARECIDA 
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",APERIPE TV 
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",ARTV OPT 2 NEW 
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",DTTV 
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",E PARANA 
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",FUTURA 
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",GUARU FAMA TV 
+http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",MASTER TV HD
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",MKK WEB TV 
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",NOVO TEMPO 
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",REDE ALTERNATIVO 
+http://173.236.10.10:1935/rbtv/rbtv/chunklist_w712068166.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",REDE ATIVIDADE 
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",REDE SECULO 21 
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",REDE TV 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",REDE TV RONDONIA 
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",REDETV ALTERNATIVO 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w89340568.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",SBT ALTERNATIVO 
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",SBT PERNAMBUCO HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2099085578_b216000_sleng.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",SBT PIAUI 
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV AD BEL 
+http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV APARECIDA 
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV ASSEMBLEIA SP 
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV DIGITAL BIRIGUI 
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV DO POVO 
+http://tv02.logicahost.com.br:1935/tvdopovo/tvdopovo/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV EVANGELIZAR ALTERNATIVO 
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w865314152.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV F 
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV FAAP 
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV GIDOES 
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV INES 
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV MANA 
+http://csvl04.manasat.com:1935/igronline/igronline3/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV MANA 1 
+http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV MCJ 
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV MCJ (1+) 
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV MISS 
+http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV RIO 
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV TRANSAM 
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TV VIANNEY 
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TVDS 
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TVE 
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TVN 
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",TVN (1+) 
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",WEB TV IEQ SERGIPE 
+http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",WEB TV MINAS 
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
