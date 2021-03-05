@@ -21,8 +21,8 @@ http://0.0.0.0
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",Ricos TV
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",AGRO TV 
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",FIlME HD
+https://vod.encripted-encripted-encripted-encripted-encripted-encripted.fun/RCFServer5/ondemand/RLTSDMNDO.mp4
 #EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",APARECIDA 
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:0  tvg-logo="https://i.imgur.com/RcOJsTF.jpg" group-title="FORMIGAtvWEB",APERIPE TV 
