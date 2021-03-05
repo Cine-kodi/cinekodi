@@ -1,20 +1,9 @@
 <channels></channels>
 <channel>
-<name>Supernatural</name>
-<thumbnail>https://th.bing.com/th/id/R6eccdcf5b50a755e1a8e43e5e6bfbec3?rik=5RdL9%2bBAof40Tg&riu=http%3a%2f%2fde.web.img3.acsta.net%2fpictures%2f20%2f10%2f16%2f11%2f22%2f5962337.jpg&ehk=T6KkCOa7018Q2k1uod%2bxGvM4BxX1GvymWiBnfr0XwX8%3d&risl=&pid=ImgRaw</thumbnail>
-
-<item>
-<title>Temporada 7</title>
-<link>magnet:?xt=urn:btih:491D8663B867CEF866CB758F5B8640C59BD7B4A9&dn=Sobrenatural%202011%20-%207%c2%aa%20Temporada%20Completa%20%28720p%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
-<thumbnail>https://hidratorrent.org/capas/sobrenatural-7-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-</channel>
-
-<channel>
 <name>WandaVision</name>
 <thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp4919979.jpg</fanart>
+<extenallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/Temporada%201</externallink>
 <info>
 [COLOR deepskyblue]Título: [/COLOR]Wandanision
 [COLOR deepskyblue]Status: [/COLOR]Em Esreia
@@ -25,13 +14,5 @@
 [COLOR deepskyblue]Gênero: [/COLOR]Drama | Sitcom | Mistério | Romance | Super-herói | Ficção científica
 [COLOR deepskyblue]Sinopse: [/COLOR]Situada três semanas após os eventos de Vigadores: Ultimato (2019), Wanda Maximoff e Visão estão vivendo uma vida suburbana idílica na cidade de Westview, New Jersey, tentando esconder suas verdadeiras naturezas. À medida que começam a entrar nas novas décadas, o casal suspeita que as coisas não são o que parecem.
 </info>
-		
-<item>
-<title>Temporada 1</title>
-<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fdisneyplusoriginals.disney.com%2Fshow%2Fwandavision&psig=AOvVaw1nme7Vxn9moWKwr_a42EJD&ust=1615051733886000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD-xdrWme8CFQAAAAAdAAAAABAF</thumbnail>
-<extenallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/Temporada%201</externallink>
-<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2021%2F02%2F24%2Fcinema-e-streaming%2Fmusicas-wandavision-deram-spoilers-sobre-grande-revelacao%2F&psig=AOvVaw0NJhqQnc-nVmYki_B1vz31&ust=1615052109674000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj2x47Yme8CFQAAAAAdAAAAABAD</fanart>
-<info></info>
-</item>
 </channel>
 
