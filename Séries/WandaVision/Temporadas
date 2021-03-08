@@ -12,8 +12,9 @@
 <thumbnail></thumbnail>
 <info>Aguarde por favor...</info>
 <fanart></fanart>
+
 <item>
-<title>[B]Episódio 1[/B] - Filmado com Público ao Vivo </title>
+<title>[COLOR yellow][B]Temporada 1[/B][/COLOR]</title>
 <thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
 <link>https://www52.uptostream.com/3kkwr9ed6c7/360/0/video.mp4</link>
 <fanart></fanart>
@@ -21,7 +22,15 @@
 </item>
 
 <item>
-<title>[B]Episódio 2[/B] - Filmado com Público ao Vivo </title>
+<title>[B]Episódio 1[/B] - Filmado com Público ao Vivo</title>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<link>https://www52.uptostream.com/3kkwr9ed6c7/360/0/video.mp4</link>
+<fanart></fanart>
+<info>Teste 6</info>
+</item>
+
+<item>
+<title>[B]Episódio 2[/B] - Não Mude de Canal</title>
 <thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
 <link>https://dietafitness.fun/instagram/campanha.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
 <fanart></fanart>
@@ -29,7 +38,55 @@
 </item>
 
 <item>
-<title>[B]Episódio 3[/B] - Filmado com Público ao Vivo </title>
+<title>[B]Episódio 3[/B] - Agora em Cores)</title>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<link>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
+<fanart></fanart>
+<info>Teste 6</info>
+</item>
+
+<item>
+<title>[B]Episódio 4[/B] - Interrompemos Este Programa</title>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<link>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
+<fanart></fanart>
+<info>Teste 6</info>
+</item>
+
+<item>
+<title>[B]Episódio 5[/B] - Um Episódio Muito Especial...</title>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<link>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
+<fanart></fanart>
+<info>Teste 6</info>
+</item>
+
+<item>
+<title>[B]Episódio 6[/B] - Um Halloween Assustadoramente Inédito!</title>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<link>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
+<fanart></fanart>
+<info>Teste 6</info>
+</item>
+
+<item>
+<title>[B]Episódio 7[/B] - Derrubando a Quarta Parede</title>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<link>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
+<fanart></fanart>
+<info>Teste 6</info>
+</item>
+
+<item>
+<title>[B]Episódio 8[/B] - Nos Capítulos Anteriores</title>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<link>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
+<fanart></fanart>
+<info>Teste 6</info>
+</item>
+
+<item>
+<title>[B]Episódio 9[/B] - O Grande Final</title>
 <thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
 <link>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/r.php?data=/player3/server12hlb.php?vid=LOVCRFTCNTRYT01EP01&rc=1</link>
 <fanart></fanart>
