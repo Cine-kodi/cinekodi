@@ -1,10 +1,12 @@
 <channels>
 <channel>
 <name>[COLOR chartreuse][B]● [/B][/COLOR]Filmes</name>
-<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoletivonerd.com.br%2Fviuva-negra-adiado-para-2021%2F&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAW</thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/filmes-lan%C3%A7amentos</externallink>
-<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loucosporfilmes.net%2Fp%2Fproximos-lancamentos-breve-nos-cinemas.html&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAP</fanart>
-<info>Os Melhores Filmes</info>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info>
+[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...
+</info>
 </item>
 </channel>
 </channels>
@@ -12,20 +14,10 @@
 <channels>
 <channel>
 <name>[COLOR chartreuse][B]● [/B][/COLOR]Séries</name>
-<thumbnail>https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoletivonerd.com.br%2Fviuva-negra-adiado-para-2021%2F&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAW</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Series</externallink>
-<fanart>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loucosporfilmes.net%2Fp%2Fproximos-lancamentos-breve-nos-cinemas.html&psig=AOvVaw0UxHz3LNWwofiWM0o8SGLM&ust=1614944321369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC9gMjGlu8CFQAAAAAdAAAAABAP</fanart>
+<fanart></fanart>
 <info></info>
 </item>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR chartreuse][B]● [/B][/COLOR]Tv Online</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/filmes.m3u</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
-<info>Creditos ao Formiga</info>
 </channel>
 </channels>
