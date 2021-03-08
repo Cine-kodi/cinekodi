@@ -1,10 +1,9 @@
 <channels></channels>
 <channel>
 <name>WandaVision</name>
-<thumbnail>https://lumiere-a.akamaihd.net/v1/images/bigred_ka_vert_brpo_cddc98da.jpeg</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/Temporadas</externallink>
-<fanart>https://wallpapercave.com/wp/wp4919979.jpg</fanart>
-<genre>Teste</genre>
+<fanart></fanart>
 <info>
 [COLOR deepskyblue][B]Título: [/B][/COLOR]WandaVision
 [COLOR deepskyblue][B]Status: [/B][/COLOR][COLOR tomato]Finalizada[/COLOR]
@@ -14,6 +13,24 @@
 [COLOR deepskyblue][B]Temporadas: [/B][/COLOR]1
 [COLOR deepskyblue][B]Gênero: [/B][/COLOR]Drama | Sitcom | Mistério | Romance | Super-herói | Ficção científica
 [COLOR deepskyblue][B]Sinopse: [/B][/COLOR]Situada três semanas após os eventos de Vigadores: Ultimato (2019), Wanda Maximoff e Visão estão vivendo uma vida suburbana idílica na cidade de Westview, New Jersey, tentando esconder suas verdadeiras naturezas. À medida que começam a entrar nas novas décadas, o casal suspeita que as coisas não são o que parecem.
+</info>
+</item>
+</channel>
+
+<channel>
+<name>The Walking Dead</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/Temporadas</externallink>
+<fanart></fanart>
+<info>
+[COLOR deepskyblue][B]Título: [/B][/COLOR]The Walking Dead
+[COLOR deepskyblue][B]Status: [/B][/COLOR][COLOR springgreen]Renovada[/COLOR]
+[COLOR deepskyblue][B]Emissora: [/B][/COLOR]AMC
+[COLOR deepskyblue][B]Formato: [/B][/COLOR]Série
+[COLOR deepskyblue][B]Ano de Lançamento: [/B][/COLOR]2010
+[COLOR deepskyblue][B]Temporadas: [/B][/COLOR]10
+[COLOR deepskyblue][B]Gênero: [/B][/COLOR]	Terror | Drama em série | Apocalipse zumbi
+[COLOR deepskyblue][B]Sinopse: [/B][/COLOR]The Walking Dead conta a história de um pequeno grupo de sobreviventes em um mundo pós-apocalíptico cheio de mortos-vivos. A série apresenta a excessiva jornada do grupo liderado por Rick Grimes, em busca de suprimentos e refúgios seguros. Além disso, os sobreviventes têm que lidar com dilemas morais, sentimentos confusos e desafios do dia-a-dia em um mundo hostil e praticamente dominado por mortos-vivos.
 </info>
 </item>
 </channel>
