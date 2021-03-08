@@ -1,23 +1,19 @@
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR chartreuse][B]● [/B][/COLOR]Filmes</name>
 <thumbnail></thumbnail>
-<externallink>here</externallink>
+<link>here</link>
 <fanart></fanart>
-<info>
-[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...
-</info>
+<info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
 </item>
 </channel>
-</channels>
 
-<channels>
 <channel>
 <name>[COLOR chartreuse][B]● [/B][/COLOR]Séries</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Series</externallink>
 <fanart></fanart>
-<info></info>
+<info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
 </item>
 </channel>
-</channels>
+
