@@ -18,6 +18,24 @@
 </channel>
 
 <channel>
+<name>Fate - A Saga Winx</name>
+<thumbnail>https://boraassistir.com.br/media/images/EsGg_ozW4AAlDvd.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/The%20Walking%20Dead/menu</externallink>
+<fanart></fanart>
+<info>
+[COLOR deepskyblue][B]Título: [/B][/COLOR]The Walking Dead
+[COLOR deepskyblue][B]Status: [/B][/COLOR][COLOR springgreen]Em Breve 11ª Temporada[/COLOR]
+[COLOR deepskyblue][B]Emissora: [/B][/COLOR]AMC
+[COLOR deepskyblue][B]Formato: [/B][/COLOR]Série
+[COLOR deepskyblue][B]Ano de Lançamento: [/B][/COLOR]2010
+[COLOR deepskyblue][B]Temporadas: [/B][/COLOR]10
+[COLOR deepskyblue][B]Gênero: [/B][/COLOR]Terror | Drama em série | Apocalipse zumbi
+[COLOR deepskyblue][B]Sinopse: [/B][/COLOR]The Walking Dead conta a história de um pequeno grupo de sobreviventes em um mundo pós-apocalíptico cheio de mortos-vivos. A série apresenta a excessiva jornada do grupo liderado por Rick Grimes, em busca de suprimentos e refúgios seguros. Além disso, os sobreviventes têm que lidar com dilemas morais, sentimentos confusos e desafios do dia-a-dia em um mundo hostil e praticamente dominado por mortos-vivos.
+</info>
+</item>
+</channel>
+
+<channel>
 <name>The Walking Dead</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/The%20Walking%20Dead/menu</externallink>
