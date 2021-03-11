@@ -1,15 +1,7 @@
 <channels></channels>
-<channel>
-<name>[COLOR chartreuse][B]● [/B][/COLOR]Filmes</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/menu_filmes</externallink>
-<fanart></fanart>
-<info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
-</item>
-</channel>
 
 <channel>
-<name>[COLOR chartreuse][B]● [/B][/COLOR]Filmes HD</name>
+<name>[COLOR chartreuse][B]● [/B][/COLOR]Filmes</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/menu_filmes</externallink>
 <fanart></fanart>
