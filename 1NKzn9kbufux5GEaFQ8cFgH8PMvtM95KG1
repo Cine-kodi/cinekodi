@@ -1,7 +1,7 @@
 <channels></channels>
 
 <channel>
-<name>[COLOR chartreuse][B]● [/B][/COLOR]Filmes</name>
+<name>[COLOR white][B]Filmes[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/menu_filmes</externallink>
 <fanart></fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[COLOR chartreuse][B]● [/B][/COLOR]Séries</name>
+<name>[COLOR white][B]Séries[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/menu_s%C3%A9ries</externallink>
 <fanart></fanart>
