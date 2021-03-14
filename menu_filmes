@@ -1,18 +1,18 @@
 <channels></channels>
 <channel>
-<name>[B][COLOR white]Raya e o Último Dragão [/COLOR][COLOR gold](IMDb 7,6)[/COLOR][/B]</name>
+<name>[B][COLOR white]Raya e o Último Dragão[/COLOR] [COLOR gold](IMDb 7,6)[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/Filmes/Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3o/menu.xml</externallink>
 <fanart></fanart>
-<info>
-[B][COLOR deepskyblue]Título: [/B][/COLOR][COLOR white]Raya e o Último Dragão[/COLOR]
-[B][COLOR deepskyblue]Direção: [/B][/COLOR][COLOR white]Don Hall, Carlos López Estrada[/COLOR]
-[B][COLOR deepskyblue]Emissora: [/B][/COLOR][COLOR white]Disney +[/COLOR]
-[B][COLOR deepskyblue]Formato: [/B][/COLOR][COLOR white]Animação[/COLOR]
-[B][COLOR deepskyblue]Classificação: [/B][/COLOR][COLOR white]+10[/COLOR]
-[B][COLOR deepskyblue]Ano de Lançamento: [/B][/COLOR][COLOR white]2021[/COLOR]
-[B][COLOR deepskyblue]Gênero: [/B][/COLOR][COLOR white]Animação, Ação, Aventura[/COLOR]
-[B][COLOR deepskyblue]Sinopse: [/B][/COLOR][COLOR white]Em um reino conhecido como Lumandra, uma Terra reinventada e habitada por uma civilização antiga, um guerreiro chamado Raya está determinado a encontrar o último dragão.[/COLOR]
-</info>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<name>[B][COLOR white]O Príncipe Esquecido[/COLOR] [COLOR gold](IMDb 5,2)[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/Filmes/Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3o/menu.xml</externallink>
+<fanart></fanart>
+<info></info>
 </item>
 </channel>
