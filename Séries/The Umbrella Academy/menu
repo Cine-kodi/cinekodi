@@ -1,1 +1,17 @@
+<channels></channels>
 
+<channel>
+<name>[COLOR white][B]1ª Temporada[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Sempre%20Bruxa/1%C2%AA%20Temporada/menu</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]2ª Temporada[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Sempre%20Bruxa/2%C2%AA%20Temporada/menu</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
