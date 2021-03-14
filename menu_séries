@@ -1,62 +1,63 @@
 <channels></channels>
-<channel>
-<name>WandaVision</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/menu</externallink>
-<fanart></fanart>
-<info>
-[COLOR deepskyblue][B]Título: [/B][/COLOR]WandaVision
-[COLOR deepskyblue][B]Status: [/B][/COLOR][COLOR tomato]Finalizada[/COLOR]
-[COLOR deepskyblue][B]Emissora: [/B][/COLOR]Disney +
-[COLOR deepskyblue][B]Formato: [/B][/COLOR]Minisérie
-[COLOR deepskyblue][B]Ano de Lançamento: [/B][/COLOR]2021
-[COLOR deepskyblue][B]Temporadas: [/B][/COLOR]1
-[COLOR deepskyblue][B]Gênero: [/B][/COLOR]Drama | Sitcom | Mistério | Romance | Super-herói | Ficção científica
-[COLOR deepskyblue][B]Sinopse: [/B][/COLOR]Situada três semanas após os eventos de Vigadores: Ultimato (2019), Wanda Maximoff e Visão estão vivendo uma vida suburbana idílica na cidade de Westview, New Jersey, tentando esconder suas verdadeiras naturezas. À medida que começam a entrar nas novas décadas, o casal suspeita que as coisas não são o que parecem.
-</info>
-</item>
-</channel>
 
 <channel>
-<name>Fate - A Saga Winx</name>
+<name>[COLOR white][B]Fate - A Saga Winx[/B][/COLOR] [COLOR gold][B](IMDb 6,9)[/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Fate%3A%20A%20Saga%20Winx/thumb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/The%20Walking%20Dead/menu</externallink>
 <fanart></fanart>
-<info>
-[COLOR deepskyblue][B]Título: [/B][/COLOR]The Walking Dead
-[COLOR deepskyblue][B]Status: [/B][/COLOR][COLOR springgreen]Em Breve 11ª Temporada[/COLOR]
-[COLOR deepskyblue][B]Emissora: [/B][/COLOR]AMC
-[COLOR deepskyblue][B]Formato: [/B][/COLOR]Série
-[COLOR deepskyblue][B]Ano de Lançamento: [/B][/COLOR]2010
-[COLOR deepskyblue][B]Temporadas: [/B][/COLOR]10
-[COLOR deepskyblue][B]Gênero: [/B][/COLOR]Terror | Drama em série | Apocalipse zumbi
-[COLOR deepskyblue][B]Sinopse: [/B][/COLOR]The Walking Dead conta a história de um pequeno grupo de sobreviventes em um mundo pós-apocalíptico cheio de mortos-vivos. A série apresenta a excessiva jornada do grupo liderado por Rick Grimes, em busca de suprimentos e refúgios seguros. Além disso, os sobreviventes têm que lidar com dilemas morais, sentimentos confusos e desafios do dia-a-dia em um mundo hostil e praticamente dominado por mortos-vivos.
-</info>
+<info></info>
 </item>
 </channel>
 
 <channel>
-<name>The Walking Dead</name>
+<name>[COLOR white][B]Locke & Key[/B][/COLOR] [COLOR gold][B](IMDb 7,4)[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Luna Nera[/B][/COLOR] [COLOR gold][B](IMDb 5,5)[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Sempre Bruxa[/B][/COLOR] [COLOR gold][B](IMDb 6,2)[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<name>[COLOR white][B]The Umbrella Academy[/B][/COLOR] [COLOR gold][B](IMDb 8,0)[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channel>
+<name>[COLOR white][B]The Walking Dead[/B][/COLOR] [COLOR gold][B](IMDb 8,2)[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/The%20Walking%20Dead/menu</externallink>
 <fanart></fanart>
-<info>
-[COLOR deepskyblue][B]Título: [/B][/COLOR]The Walking Dead
-[COLOR deepskyblue][B]Status: [/B][/COLOR][COLOR springgreen]Em Breve 11ª Temporada[/COLOR]
-[COLOR deepskyblue][B]Emissora: [/B][/COLOR]AMC
-[COLOR deepskyblue][B]Formato: [/B][/COLOR]Série
-[COLOR deepskyblue][B]Ano de Lançamento: [/B][/COLOR]2010
-[COLOR deepskyblue][B]Temporadas: [/B][/COLOR]10
-[COLOR deepskyblue][B]Gênero: [/B][/COLOR]Terror | Drama em série | Apocalipse zumbi
-[COLOR deepskyblue][B]Sinopse: [/B][/COLOR]The Walking Dead conta a história de um pequeno grupo de sobreviventes em um mundo pós-apocalíptico cheio de mortos-vivos. A série apresenta a excessiva jornada do grupo liderado por Rick Grimes, em busca de suprimentos e refúgios seguros. Além disso, os sobreviventes têm que lidar com dilemas morais, sentimentos confusos e desafios do dia-a-dia em um mundo hostil e praticamente dominado por mortos-vivos.
-</info>
+<info></info>
 </item>
 </channel>
 
 <channel>
-<name>Raya e o Último Dragão</name>
+<name>[COLOR white][B]WandaVision[/B][/COLOR] [COLOR gold][B](IMDb 8,2)[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/Filmes/Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3o/menu</externallink>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/menu</externallink>
 <fanart></fanart>
 <info></info>
 </item>
