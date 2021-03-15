@@ -1,3 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="x" group-title="SERIES E DESENHOS 24H" pltv-subgroup="SERIES", Test 1
+#EXTINF:-1 tvg-logo="x" group-title="SERIES E DESENHOS 24H" pltv-subgroup="SERIES", Test 
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="x" group-title="SERIES E DESENHOS 24H" pltv-subgroup="SERIES", Test 
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="x" group-title="SERIES E DESENHOS 24H" pltv-subgroup="SERIES 1", Test 1
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="x" group-title="SERIES E DESENHOS 24H" pltv-subgroup="SERIES 1", Test 1
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="x" group-title="SERIES E DESENHOS 24H" pltv-subgroup="SERIES 2", Test 2
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="x" group-title="SERIES E DESENHOS 24H" pltv-subgroup="SERIES 2", Test 2
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
