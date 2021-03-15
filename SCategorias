@@ -1,64 +1,144 @@
 <channels></channels>
-
 <channel>
-<name>[COLOR white][B]Fate - A Saga Winx[/B][/COLOR] [COLOR gold][B](IMDb 6,9)[/B][/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Fate%3A%20A%20Saga%20Winx/thumbnail.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Fate%3A%20A%20Saga%20Winx/1%C2%AA%20Temporada/menu</externallink>
-<fanart>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Fate%3A%20A%20Saga%20Winx/fanart.jpg</fanart>
+<name>[B][COLOR white]Todos[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
 <info></info>
-</item>
 </channel>
 
 <channel>
-<name>[COLOR white][B]Locke & Key[/B][/COLOR] [COLOR gold][B](IMDb 7,4)[/B][/COLOR]</name>
+<name>[B][COLOR white]Lançamentos[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Locke%20%26%20Key/1%C2%AA%20Temporada/menu</externallink>
+<externallink>here</externallink>
 <fanart></fanart>
 <info></info>
-</item>
 </channel>
 
 <channel>
-<name>[COLOR white][B]Luna Nera[/B][/COLOR] [COLOR gold][B](IMDb 5,5)[/B][/COLOR]</name>
+<name>[B][COLOR white]Ação[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Luna%20Nera/1%C2%AA%20Temporada/menu</externallink>
+<externallink>here</externallink>
 <fanart></fanart>
 <info></info>
-</item>
 </channel>
 
 <channel>
-<name>[COLOR white][B]Sempre Bruxa[/B][/COLOR] [COLOR gold][B](IMDb 6,2)[/B][/COLOR]</name>
+<name>[B][COLOR white]Aventura[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/Sempre%20Bruxa/menu</externallink>
+<externallink>here</externallink>
 <fanart></fanart>
 <info></info>
-</item>
 </channel>
 
 <channel>
-<name>[COLOR white][B]The Umbrella Academy[/B][/COLOR] [COLOR gold][B](IMDb 8,0)[/B][/COLOR]</name>
+<name>[B][COLOR white]Animação[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/The%20Umbrella%20Academy/menu</externallink>
+<externallink>here</externallink>
 <fanart></fanart>
 <info></info>
-</item>
 </channel>
 
 <channel>
-<name>[COLOR white][B]The Walking Dead[/B][/COLOR] [COLOR gold][B](IMDb 8,2)[/B][/COLOR]</name>
+<name>[B][COLOR white]Comédia[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/The%20Walking%20Dead/menu</externallink>
+<externallink>here</externallink>
 <fanart></fanart>
 <info></info>
-</item>
 </channel>
 
 <channel>
-<name>[COLOR white][B]WandaVision[/B][/COLOR] [COLOR gold][B](IMDb 8,2)[/B][/COLOR]</name>
+<name>[B][COLOR white]Crime[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/S%C3%A9ries/WandaVision/menu</externallink>
+<externallink>here</externallink>
 <fanart></fanart>
 <info></info>
-</item>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Documentário[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Drama[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Família[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Fantasia[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Faroeste[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Guerra[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Mistério[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Músical[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Romance[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Suspense[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Terror[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>here</externallink>
+<fanart></fanart>
+<info></info>
 </channel>
