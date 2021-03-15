@@ -1,18 +1,144 @@
 <channels></channels>
 <channel>
-<name>[B][COLOR white]Raya e o Último Dragão[/COLOR] [COLOR gold](IMDb 7,6)[/COLOR][/B]</name>
+<name>[B][COLOR white]Todos[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/Filmes/Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3o/menu.xml</externallink>
+<externallink></externallink>
 <fanart></fanart>
 <info></info>
-</item>
 </channel>
 
 <channel>
-<name>[B][COLOR white]O Príncipe Esquecido[/COLOR] [COLOR gold](IMDb 5,2)[/COLOR][/B]</name>
+<name>[B][COLOR white]Lançamentos[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/Filmes/O%20Pr%C3%ADncipe%20Esquecido/menu</externallink>
+<externallink></externallink>
 <fanart></fanart>
 <info></info>
-</item>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Ação[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Aventura[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Animação[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Comédia[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Crime[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Documentário[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Drama[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Família[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Fantasia[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Faroeste[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Guerra[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Mistério[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Músical[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Romance[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Suspense[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]Terror[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
 </channel>
