@@ -5,7 +5,7 @@
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/FCategorias</externallink>
 <fanart></fanart>
-<info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
+<info>[B][COLOR orangered]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
 </item>
 </channel>
 
@@ -14,16 +14,16 @@
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/SCategorias</externallink>
 <fanart></fanart>
-<info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
+<info>[B][COLOR orangered]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
 </item>
 </channel>
 
 <channel>
-<name>[COLOR white][B]Versão 1.0.1 - [COLOR gold]King[/COLOR]Play[/B][/COLOR]</name>
+<name>[COLOR white][B][COLOR gold]King[/COLOR]Play - Versão 1.0.1 | [COLOR gold]King[/COLOR]Play - Versão 1.0.1 | [COLOR gold]King[/COLOR]Play - Versão 1.0.1[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/SCategorias</externallink>
+<externallink>here</externallink>
 <fanart></fanart>
-<info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
+<info></info>
 </item>
 </channel>
 
