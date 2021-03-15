@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/FCategoria</externallink>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/FCategorias</externallink>
 <fanart></fanart>
 <info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
 </item>
@@ -12,7 +12,7 @@
 <channel>
 <name>[COLOR white][B]Séries[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/SCategoria</externallink>
+<externallink>https://raw.githubusercontent.com/Cine-kodi/cinekodi/main/SCategorias</externallink>
 <fanart></fanart>
 <info>[B][COLOR deepskyblue]Status: [/COLOR][/B]Em manutenção. Aguarde...</info>
 </item>
