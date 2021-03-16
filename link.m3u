@@ -1,18 +1,5 @@
 #EXTM3U
 
-********* Canais | Esportes **********
-
-#EXTINF: -1 tvg-logo="" group-title="Canais | Esportes", Combate
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=kCOdsYJqgvJW2xVde_monw&3U1G7qaTxrPbalZnEx=1615906514
-
-#EXTINF: -1 tvg-logo="" group-title="Canais | Esportes", Combate 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=uJGbOlUx_3cSXMh3C7CPjQ&3U1G7qaTxrPbalZnEx=1615948787
-
-********** Canais | Filmes & Séries **********
-
-#EXTINF: -1 tvg-logo="" group-title="Canais | Filmes & Séries", Megapix
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/megapix.m3u8?mu3zAQc9HC3GbwJq=SOUoBysFoQc7gl8s8PpS0w&3U1G7qaTxrPbalZnEx=1615911470
-
 ********** Filmes | Todos **********
 
 #EXTINF: -1 tvg-logo="" group-title="Filmes | Todos", #Alive (Dublado) - 2020
