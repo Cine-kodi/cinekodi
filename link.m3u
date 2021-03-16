@@ -195,89 +195,105 @@ https://0.0.0.0/
 
 ********** Filmes | Ação **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Ação",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Ação", Filmes | Ação
+https://0.0.0.0/
 
 ********** Filmes | Aventura **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Aventura",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Aventura", Filmes | Aventura
+https://0.0.0.0/
 
 ********** Filmes | Animação **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Animação",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Animação", Filmes | Animação
+https://0.0.0.0/
 
 ********** Filmes | Comédia **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Comédia",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Comédia", Filmes | Comédia
+https://0.0.0.0/
 
 ********** Filmes | Crime **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Crime",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Crime", Filmes | Crime
+https://0.0.0.0/
 
 ********** Filmes | Documentário **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Documentário",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Documentário", Filmes | Documentário
+https://0.0.0.0/
 
 ********** Filmes | Drama **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Drama",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Drama", Filmes | Drama
+https://0.0.0.0/
 
 ********** Filmes | Família **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Família",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Família", Filmes | Família
+https://0.0.0.0/
 
 ********** Filmes | Fantasia **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Fantasia",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Fantasia", Filmes | Fantasia
+https://0.0.0.0/
 
 ********** Filmes | Faroeste **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Faroeste",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Faroeste", Filmes | Faroeste
+https://0.0.0.0/
 
 ********** Filmes | Guerra **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Guerra",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Guerra", Filmes | Guerra
+https://0.0.0.0/
 
 ********** Filmes | Mistério **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Mistério",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Mistério", Filmes | Mistério
+https://0.0.0.0/
 
 ********** Filmes | Músical **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Músical",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Músical", Filmes | Músical
+https://0.0.0.0/
 
 ********** Filmes | Romance **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Romance",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Romance", Filmes | Romance
+https://0.0.0.0/
 
 ********** Filmes | Suspense **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Suspense",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Suspense", Filmes | Suspense
+https://0.0.0.0/
 
 ********** Filmes | Terror **********
 
-#EXTINF: -1 tvg-logo="" group-title="Filmes | Terror",
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Terror", Filmes | Terror
+https://0.0.0.0/
 
 ********** Série | Fate: A Saga Winx **********
 
 #EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", 1ª Temporada
 https://0.0.0.0/
 
-#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 1	- Para as águas e selvagens
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 1 - Para as águas e selvagens
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 2	- Nenhum estranho aqui
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 2 - Nenhum estranho aqui
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP02.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 3	- Esperanças mortais pesadas
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 3 - Esperanças mortais pesadas
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP03.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 4	- Algum anjo destruído
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 4 - Algum anjo destruído
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP04.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 5	- Murcha na verdade
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 5 - Murcha na verdade
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP05.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 6	- Um Coração Fanático
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 6 - Um Coração Fanático
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP06.mp4
 
 ********** Série | Locke & Key **********
