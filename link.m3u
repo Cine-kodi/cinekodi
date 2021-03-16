@@ -1,5 +1,3 @@
-#EXTM3U
-
 ********** Canais | Esportes **********
 
 #EXTINF: -1 tvg-logo="" group-title="Canais | Esportes", Combate
@@ -10,145 +8,253 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF: -1 tvg-logo="" group-title="Canais | Filmes & Séries", Megapix
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/megapix.m3u8?mu3zAQc9HC3GbwJq=SOUoBysFoQc7gl8s8PpS0w&3U1G7qaTxrPbalZnEx=1615911470
 
-********** Fate: A Saga Winx **********
+********** Filmes | Lançamentos **********
 
-#EXTINF: -1 tvg-logo="" group-title="Fate: A Saga Winx", 1ª Temporada
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", A Assistente (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/AASISTNTE.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", A Bruxa da Casa ao Lado (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ABRXDCSAOLDO.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", A Escavação (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/AESCVCAO.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", A História Pessoal de David Copperfield (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/AHSTRPSLDVDCPFLD.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", A Vida Em Um Ano (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/AVDEMUMANO.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", Amor² (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/AMR2.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", Assassinos Sádicos (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/ASASNSDCS.mp4v
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos", Batman: A Alma do Dragão (2021)
+https://d1ahgc16j7taah.cloudfront.net/RCFServer5/ondemand/BTMNAALMDRGO.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Lançamentos",
+
+********** Filmes | Ação **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Ação",
+
+********** Filmes | Aventura **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Aventura",
+
+********** Filmes | Animação **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Animação",
+
+********** Filmes | Comédia **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Comédia",
+
+********** Filmes | Crime **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Crime",
+
+********** Filmes | Documentário **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Documentário",
+
+********** Filmes | Drama **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Drama",
+
+********** Filmes | Família **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Família",
+
+********** Filmes | Fantasia **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Fantasia",
+
+********** Filmes | Faroeste **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Faroeste",
+
+********** Filmes | Guerra **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Guerra",
+
+********** Filmes | Mistério **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Mistério",
+
+********** Filmes | Músical **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Músical",
+
+********** Filmes | Romance **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Romance",
+
+********** Filmes | Suspense **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Suspense",
+
+********** Filmes | Terror **********
+
+#EXTINF: -1 tvg-logo="" group-title="Filmes | Terror",
+
+********** Série | Fate: A Saga Winx **********
+
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", 1ª Temporada
 https://0.0.0.0/
 
-#EXTINF: -1 tvg-logo="" group-title="Fate: A Saga Winx", Episódio 1	- Para as águas e selvagens
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 1	- Para as águas e selvagens
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP01.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Fate: A Saga Winx", Episódio 2	- Nenhum estranho aqui
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 2	- Nenhum estranho aqui
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP02.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Fate: A Saga Winx", Episódio 3	- Esperanças mortais pesadas
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 3	- Esperanças mortais pesadas
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP03.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Fate: A Saga Winx", Episódio 4	- Algum anjo destruído
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 4	- Algum anjo destruído
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP04.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Fate: A Saga Winx", Episódio 5	- Murcha na verdade
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 5	- Murcha na verdade
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP05.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="Fate: A Saga Winx", Episódio 6	- Um Coração Fanático
+#EXTINF: -1 tvg-logo="" group-title="Série | Fate: A Saga Winx", Episódio 6	- Um Coração Fanático
 https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/FTASGWNXT01EP06.mp4
 
-********** Locke & Key **********
+********** Série | Locke & Key **********
 
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", 1ª Temporada
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", 1ª Temporada
 https://0.0.0.0/
 
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 1 - Bem-vindo ao Matheson					
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 1 - Bem-vindo ao Matheson					
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP01.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 2 - Trapper / Keeper						
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 2 - Trapper / Keeper						
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP02.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 3 -Head Games					
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 3 -Head Games					
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP03.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 4 -Os guardiões das chaves					
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 4 -Os guardiões das chaves					
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP04.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 5 - Árvore genealógica				
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 5 - Árvore genealógica				
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP05.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 6 - A porta negra					
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 6 - A porta negra					
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP06.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 7 -	Dissecação			
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 7 -	Dissecação			
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP07.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 8 -	Ray of F ** king Sunshine				
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 8 -	Ray of F ** king Sunshine				
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP08.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 9 -	Echoes					
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 9 -	Echoes					
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP09.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Locke & Key", Episódio 10 - Coroa das sombras
+#EXTINF: -1 tvg-logo="" group-title="Série | Locke & Key", Episódio 10 - Coroa das sombras
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LCKANDKYT01EP10.mp4
 
-********** Luna Nera **********
+********** Série | Luna Nera **********
 
-#EXTINF: -1 tvg-logo="" group-title="Luna Nera", 1ª Temporada
+#EXTINF: -1 tvg-logo="" group-title="Série | Luna Nera", 1ª Temporada
 https://0.0.0.0/
 
-#EXTINF: -1 tvg-logo="" group-title="Luna Nera", Episódio 1 - Presságio					
+#EXTINF: -1 tvg-logo="" group-title="Série | Luna Nera", Episódio 1 - Presságio					
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LNANRAT01EP01.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Luna Nera", Episódio 2 - O livro					
+#EXTINF: -1 tvg-logo="" group-title="Série | Luna Nera", Episódio 2 - O livro					
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LNANRAT01EP02.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Luna Nera", Episódio 3 - Vozes							
+#EXTINF: -1 tvg-logo="" group-title="Série | Luna Nera", Episódio 3 - Vozes							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LNANRAT01EP03.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Luna Nera", Episódio 4 - Destino							
+#EXTINF: -1 tvg-logo="" group-title="Série | Luna Nera", Episódio 4 - Destino							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LNANRAT01EP04.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Luna Nera", Episódio 5 - Armas							
+#EXTINF: -1 tvg-logo="" group-title="Série | Luna Nera", Episódio 5 - Armas							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LNANRAT01EP05.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Luna Nera", Episódio 6 - Claro							
+#EXTINF: -1 tvg-logo="" group-title="Série | Luna Nera", Episódio 6 - Claro							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/LNANRAT01EP06.mp4
 
-********** Sempre Bruxa **********
+********** Série | Sempre Bruxa **********
 
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", 1ª Temporada
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", 1ª Temporada
 https://0.0.0.0/
 
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 1 - Um salto no tempo							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 1 - Um salto no tempo							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP01.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 2 - Uma bruxa da faculdade							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 2 - Uma bruxa da faculdade							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP02.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 3 - Ouija							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 3 - Ouija							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP03.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 4 - Sombra roubada, bruxa esquecida							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 4 - Sombra roubada, bruxa esquecida							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP04.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 5 - A festa das velas							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 5 - A festa das velas							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP05.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 6 - O ritual do esquecimento							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 6 - O ritual do esquecimento							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP06.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 7 - Lucien							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 7 - Lucien							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP07.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 8 - 1646							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 8 - 1646							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP08.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 9 - Portal de tempo							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 9 - Portal de tempo							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP09.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 10 - Armadilha para animais							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 10 - Armadilha para animais							
 https://d1ahgc16j7taah.cloudfront.net/RCServer04/ondemand/SMPRBRXST01EP10.mp4	
 
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", 2ª Temporada
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", 2ª Temporada
 https://0.0.0.0/
 
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 1 - Alguém como eu							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 1 - Alguém como eu							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP01.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 2 - Sanguessugas							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 2 - Sanguessugas							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP02.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 3 - Antares							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 3 - Antares							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP03.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 4 - Sr. Hyde							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 4 - Sr. Hyde							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP04.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 5 - Uma rachadura no tempo							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 5 - Uma rachadura no tempo							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP05.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 6 - De aluno para professor							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 6 - De aluno para professor							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP06.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 7 - Último desejo							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 7 - Último desejo							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP07.mp4
 							
-#EXTINF: -1 tvg-logo="" group-title="Sempre Bruxa", Episódio 8 - Um impossível							
+#EXTINF: -1 tvg-logo="" group-title="Série | Sempre Bruxa", Episódio 8 - Um impossível							
 https://d1ahgc16j7taah.cloudfront.net/RCServer14/ondemand/SMPRBRXST02EP08.mp4
