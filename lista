@@ -7103,10 +7103,7 @@ https://gesttec.azureedge.net//
 
 
 
-#EXTINF: -1 tvg-logo="" group-title="Lançamentos", Todos de 2021
-https://0.0.0.0/
-
-#EXTINF: -1 tvg-logo="" group-title="Lançamentos", A Assistente (2021)
+#EXTINF: -1 tvg-logo="https://imgur.com/gallery/ZZ3lSDZ" group-title="Lançamentos", A Assistente (2021)
 https://gesttec.azureedge.net//RCFServer5/ondemand/AASISTNTE.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos", A Bruxa da Casa ao Lado (2021)
