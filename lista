@@ -1,1540 +1,507 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo="" group-title="Ação", #Alive (DUB) - 2020
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ALVE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Terror", #Alive (DUB) - 2020
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ALVE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", #Horror (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/HROR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", #Horror (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/HROR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Terror", #Horror (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/HROR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Comédia", #Nudes (Nacional) - 2018
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/NUDS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Nacional", #Nudes (Nacional) - 2018
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/NUDS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Romance", #Nudes (Nacional) - 2018
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/NUDS.mp4
- 
-#EXTINF: -1 tvg-logo="" group-title="Comédia", #RealityHigh (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/RALTYHGH.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Comédia", (500) Dias com Ela (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/500DSCMELA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", (500) Dias com Ela (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/500DSCMELA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Romance", (500) Dias com Ela (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/500DSCMELA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Comédia", (Des)Encontro Perfeito (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/DESNCTROPRFTO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Romance", (Des)Encontro Perfeito (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/DESNCTROPRFTO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", + Velozes + Furiosos (DUB) - 2003 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/VLZEFROSOS02.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", + Velozes + Furiosos (DUB) - 2003 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/VLZEFROSOS02.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Guerra", ...E o Vento Levou (DUB) - 1940 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/EOVNTOLVOU.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", ...E o Vento Levou (DUB) - 1940 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/EOVNTOLVOU.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Romance", ...E o Vento Levou (DUB) - 1940 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/EOVNTOLVOU.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Anime", .hack//G.U. Trilogy (LEG) - 2008 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/HCKTRLOGY.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Fantasia", .hack//G.U. Trilogy (LEG) - 2008 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/HCKTRLOGY.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Anime", .hack//The Movie (LEG) - 2012
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/HCKOMOVIE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", .hack//The Movie (LEG) - 2012
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/HCKOMOVIE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", .hack//The Movie (LEG) - 2012
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/HCKOMOVIE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Fantasia", .hack//The Movie (LEG) - 2012
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/HCKOMOVIE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra a Chantagem Atômica (DUB) - 1965 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra a Chantagem Atômica (DUB) - 1965 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra Goldeneye (DUB) - 1995 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071995CNTRGLDNE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra Goldeneye (DUB) - 1995 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071995CNTRGLDNE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra Goldfinger (DUB) - 1964 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra Goldfinger (DUB) - 1964 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra o Foguete da Morte (DUB) - 1979 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071979CNTROFGUT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra o Foguete da Morte (DUB) - 1979 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071979CNTROFGUT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra o Homem com a Pistola de Ouro (DUB) - 1974 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071974CNTROHMN.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra o Homem com a Pistola de Ouro (DUB) - 1974 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071974CNTROHMN.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra o Satânico Dr. No (DUB) - 1962 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071962CNTROSTNC.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra o Satânico Dr. No (DUB) - 1962 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071962CNTROSTNC.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra Octopussy (DUB) - 1983 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra Octopussy (DUB) - 1983 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007 Contra Spectre (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072016CNTRSPCTR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007 Contra Spectre (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072016CNTRSPCTR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: A Serviço Secreto de Sua Majestade (DUB) - 1969 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071969ASVCSCRT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: A Serviço Secreto de Sua Majestade (DUB) - 1969 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071969ASVCSCRT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Casino Royale (DUB) - 2006 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072006CSNRYL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Casino Royale (DUB) - 2006 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072006CSNRYL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Marcado Para a Morte (DUB) - 1987 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071987MRCDOMRT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Marcado Para a Morte (DUB) - 1987 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071987MRCDOMRT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Na Mira dos Assassinos (DUB) - 1985 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071985NMRDSASNS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Na Mira dos Assassinos (DUB) - 1985 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071985NMRDSASNS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Nunca Mais Outra Vez (DUB) - 1983 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Nunca Mais Outra Vez (DUB) - 1983 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: O Amanhã Nunca Morre (DUB) - 1997 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071997OAMNHNCM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: O Amanhã Nunca Morre (DUB) - 1997 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071997OAMNHNCM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: O Espião Que Me Amava (DUB) - 1977 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071977OESPNHQMA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: O Espião Que Me Amava (DUB) - 1977 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071977OESPNHQMA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: O Mundo Não é o Bastante (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: O Mundo Não é o Bastante (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Operação Skyfall (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072012OPSKYFL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Operação Skyfall (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072012OPSKYFL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Os Diamantes São Eternos (DUB) - 1971 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071971OSDAMTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Os Diamantes São Eternos (DUB) - 1971 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071971OSDAMTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Permissão Para Matar (DUB) - 1989 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071989PRMSPMTR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Permissão Para Matar (DUB) - 1989 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071989PRMSPMTR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Quantum of Solace (DUB) - 2008 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072008QNTOFSLC.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Quantum of Solace (DUB) - 2008 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072008QNTOFSLC.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Somente Para Seus Olhos (DUB) - 1981 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Somente Para Seus Olhos (DUB) - 1981 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Um Novo Dia Para Morrer (DUB) - 2003 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072002UNDPM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Um Novo Dia Para Morrer (DUB) - 2003 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072002UNDPM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 007: Um Novo Dia Para Morrer (DUB) - 2003 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072002UNDPM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 007: Um Novo Dia Para Morrer (DUB) - 2003 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/0072002UNDPM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 009 Re:Cyborg (LEG) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/009RCBRG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Anime", 009 Re:Cyborg (LEG) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/009RCBRG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 009 Re:Cyborg (LEG) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/009RCBRG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Nacional", 1 Contra Todos (Nacional) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/1CNTRTDSOFLM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 1 Contra Todos (Nacional) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/1CNTRTDSOFLM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Romance", 10 Coisas que Deveríamos Fazer Antes de nos Separar (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/10COSQDVRMSFZRANTSDNSPR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Nacional", 10 Horas Para o Natal (Nacional) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/10HRSPRONTL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Comédia", 10 Horas Para o Natal (Nacional) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/10HRSPRONTL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Família", 10 Horas Para o Natal (Nacional) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/10HRSPRONTL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 10 Minutos Para Morrer (DUB) - 1983 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/10MNTSPRMOR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 10 Minutos Para Morrer (DUB) - 1983 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/10MNTSPRMOR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 10 Minutos Para Morrer (DUB) - 1983 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/10MNTSPRMOR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Nacional", 10 Segundos para Vencer (Nacional) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/10SEGNDSPRVNCr.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 10 Segundos para Vencer (Nacional) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/10SEGNDSPRVNCr.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 10.5: O Apocalipse (DUB) - 2006 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/10.5APCLPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 10.5: O Apocalipse (DUB) - 2006 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/10.5APCLPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 100 Metros (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/100MTRS.mp4
-
-#EXTINF: -1 tvg-logo="Drama" group-title="", 100 Streets (LEG) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/100STRTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 10000 Anos Depois (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/1000ANSDPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Animação", 10000 Anos Depois (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/1000ANSDPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Fantasia", 10000 Anos Depois (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/1000ANSDPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Animação", 101 Dálmatas 2: A Aventura de Patch em Londres (DUB) - 2003
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/101DMLTS2.mp4 
-
-#EXTINF: -1 tvg-logo="" group-title="Animação", 101 Dálmatas: A Guerra dos Dálmatas (DUB) - 1961
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/101DMLTS1.mp4 
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 10x10 (LEG) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/10x10LEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 118 Dias (DUB) - 2014  
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/118DAS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 12 Anos de Escravidão (DUB) - 2014 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/12ANSDESCRVDAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 12 Feet Deep (LEG) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/12FETDEPLEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Guerra", 12 Heróis (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12HERS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 12 Homens e uma Sentença (DUB) - 1957 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12HMNSEUMSTNC.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 12 Horas (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/12HRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 12 Horas (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/12HRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/UMNTDCRM3.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Terror", 12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/UMNTDCRM3.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 12 Rounds (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS1.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 12 Rounds (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS1.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 12 Rounds (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS1.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 12 Rounds 2 (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 12 Rounds 2 (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 12 Rounds 2 (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 12 Rounds 3: Confinamento (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS3.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 12 Rounds 3: Confinamento (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS3.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 12 Rounds 3: Confinamento (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/12RNDS3.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aventura", 127 Horas (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/127HRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 127 Horas (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/127HRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 127 Horas (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/127HRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Ação", 13 Assassinos (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/13ASASNS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Drama", 13 Assassinos (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/13ASASNS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Guerra", 13 Dias Que Abalaram o Mundo (DUB) - 2000 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/13DIASQABLRMOMNDO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Suspense", 13 Dias Que Abalaram o Mundo (DUB) - 2000 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/13DIASQABLRMOMNDO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 13 Fantasmas (DUB) - 2001 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/13FNTSMAS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 13 Horas: Os Soldados Secretos de Benghazi (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/13HRSOSLDSCRTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 13 Minutos (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/13MINTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 13º Distrito (DUB) - 2014 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/13DSTRO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 1408 (DUB) - 2007 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/1408.mp4 
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 15 Minutos de Guerra (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/15MNTSDGRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 15h17: Trem para Paris (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/15H17TRMPRPRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 16 Extremos (LEG) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/16EXTRMSLEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 17 Outra Vez (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/17OUTVZ.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 1911: A Revolução (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/1911ARVLCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 1917 (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/1917.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 1918: A Batalha de Kruty (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/1918ABTLHDKRT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 1922 (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/1922.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 1941: Uma Guerra Muito Louca (DUB) - 1979
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/1941UGML.mp4 
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 1964: O Brasil Entre Armas e Livros (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/1964OBRENTARMSELVRO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2 Campeões de Shaolin (DUB) - 1980 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/2CMPEOSDSHAOLN.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2 Minutos de Fama (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/2MNTSDFMA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2 Perdidos numa Noite Suja (Nacional) - 2002 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/2PRDSNUMNTSJA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 20 Anos Mais Jovem (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/20ANSMSJVNS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2001 Maníacos (DUB) - 2005 https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/2001MANCS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2001: Uma Odisséia no Espaço (DUB) - 1968 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/2001UMODSIANESPCO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2001: Uma Odisseia no Espaço (DUB) - 1968 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/2001UMAODSANESPC.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2010: O Ano Em Que Faremos Contato (DUB) - 1984
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/2010OANEMFRMSCNTO.mp4 
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2012 (DUB)  - 2009
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/2012.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2019: O Ano da Extinção (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/2019OANDEXTCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 211: O Grande Assalto (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/2019OANDEXTCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 22 de Julho (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/22DJLHO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 22 Milhas (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/22MLHS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 28 Dias (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/28DS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 2:22: Encontro Marcado (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/222ENCTRMRDO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 Dias para Matar (DUB) - 2014 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/3DISPRMTR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 MinutosUm Abraço (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/UMABRCDTRSMNTO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 Ninjas Contra-Atacam (DUB) - 1994 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/3NJSCNTRATCM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 Ninjas do Barulho: Aventura na Mega Mountain (DUB) - 1998
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/3NJSAVNTRNMEGMNTN.mp4 
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 Ninjas em Apuros (DUB) - 1995 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/3NJSEMAPRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 Ninjas: Uma Aventura Radical (DUB) - 1992 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/3NJSUMAVNTRDCL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 Pedidos (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/3PDIDS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3 Vidas (LEG) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/3VDSLEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 30 Minutos ou Menos (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/3NJSEMAPRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 30 Noites de Atividade Paranormal com a Filha dos Homens que não Amavam as Mulheres (DUB) - 2013
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/30NTSMATVDPRNL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 300 (DUB) - 2007 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/300.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 300 - A Ascensão do Império (DUB) - 2014 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/300AASCSDIMPRO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 3000 Milhas para o Inferno (DUB) - 2001 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/3000MLHSPROINFNO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 31: A Morte É A Única Saída (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/31AMRTEAUNCSID.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 360 (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/360.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 365 Dias (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/365DIAS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 4 Latas (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/4LTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 40 Dias: O Milagre da Vida (DUB) - 2020 
-http://0.0.0.0/
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 45 Dias Sem Você (Nacional) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/45DIS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 48 Horas (DUB) - 1982 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/48HRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 48 Horas: Parte 2 (DUB) - 1990
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/48HRSPT2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 5 Dias de Guerra (DUB) - 2010 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/5DIASDGRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 50 Tons de Erotismo (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/50TNSDERTSMO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 50% (DUB) - 2010 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/50-50.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 55 Passos (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/55PSOS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 6 Balões (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/6BALOS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 6 Dias (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/6DIS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 60 Minutos Para Morrer (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/60MUNTSPRMOR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7 Denúncias: As Consequências do Caso COVID-19 (Nacional) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/7DNCSASCNSQCSDCSOCVD19.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7 Desejos (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/7DSJS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7 Dias em Entebbe (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/7DIASEMENTBE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7 Minutos na Escuridão (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/STMNTSNESCRDAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7 Segundos (DUB) - 2005 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/7SGNDS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7 Splinters in Time (LEG) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/7SLPTSINTMLEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 72 Horas (DUB) - 2010 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/72HRS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 72 Horas: Mártir Que Nunca Morreu (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/72HRSMRTQNCMRE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7500 (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/7500.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 7etenta e 5inco (DUB) - 2007 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/7TNTE5NCO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 8 Ball Clown (LEG) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/8BALCLWNLEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 9 Canções (DUB) - 2004 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/9CANCOES.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 90 Minutos no Paraíso (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/90MINPRSO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 96 Minutos (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/96MNTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", 9: A Salvação (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ASLVCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A 20 Milhões de Milhas da Terra (DUB) - 1957 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/A20MLHSDMLSDTRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A 5ª Onda (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/A5OND.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Abelha Maia: O Filme (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AABLHMAYA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Abominável Criatura (DUB) - 1988 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/AABMNVLCRTRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Acompanhante (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/AACMPNHT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Alcateia (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AALCTIA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Aparição (DUB) - 1986 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AAPRCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Aparição (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AAPRICAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Arma Secreta da Máfia (DUB) - 2001 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AARMSCRTA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Arqueira (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/AARQRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Arte da Autodefesa (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/AARTDAUTDFSA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Arte da Conquista (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AARTDCNQSTA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Arte da Paixão (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/AARTDPXA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Árvore da Maldição (DUB) - 1990 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/AARVRDMLDCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Árvore da Vida (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/AAVRDVDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Árvore dos Desejos (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/AAVRDSDSJOS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Assistente (DUB) - 2021 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/AASISTNTE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Autópsia (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AAUTSPS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Babá (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABAB.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Babá (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/ABABA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Babá Tem Que Morrer (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABABTMQMRE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Babá: Rainha da Morte (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ABABRNHADMRT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bailarina (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABLRN.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Balada de Buster Scruggs (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABLDADBSTRSCRG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Balada do B.O.B. (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ABLADOBOB.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Barraca do Beijo (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABARCDBJ.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Barraca do Beijo 2 (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ABARCDBJ2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Batalha das Ardenas: A Última Ofensiva de Hitler (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/ABTLHDSARDNS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Batalha das Correntes (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABTLHDSCRNTS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Batalha de Riddick (DUB) - 2004 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ABTLHDRDCK.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Batalha do Planeta dos Macacos (DUB) - 1974 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/PLNTDSMCMCS5.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Batalha na Montanha do Tigre (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABTLHNMNTNHDTRG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Batida Perfeita (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ABTDAPRFTA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", À Beira da Loucura (DUB) - 1994 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABERADLOCRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", À Beira do Abismo (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABRADABSM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bela Adormecida (DUB) - 1959 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABLADRMCDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bela e a Fera (DUB) - 1991 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABELEAFRA1991.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bela e a Fera (DUB) - 2010 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABLAEAFRA2010.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bela e a Fera (DUB) - 2014 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABELEAFRA2014.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bela e a Fera (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABLEAFR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bela e a Fera (LEG) - 1946 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABLAEAFRA1946.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bela e A Fera: O Natal Encantado (DUB) - 1998 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABLAEAFRONTLENCTDO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bolha Assassina (DUB) - 1989 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABLHASASNA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Boneca que virou Gente (DUB) - 2000 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ABNCQVRGNT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Boneca que virou Gente 2 (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ABNCQVRGNT2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bonequinha da Mamãe (Nacional) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABNQNHDMAME.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruma Assassina (DUB) - 1980 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/ABRMASASINA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruta Flor Do Querer (Nacional) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABRTFLRDQUR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruxa da Casa ao Lado (DUB) - 2021 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABRTFLRDQUR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruxa de Blair (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABRXDBLR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruxa de Blair 2: O Livro das Sombras (DUB) - 2001 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABRXDBLR2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruxa do Bem (DUB) - 2008 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABRXDBM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruxa do BemA Magia do Natal (DUB) - 2010 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABRXDBMAMGIDNTL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bruxa do Cabelo Branco do Reino Lunar (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Bússola De Ouro (DUB) - 2007 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ABSOLADORO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cabana (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACBNA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cabana da Morte (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACBNADMRTE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cabana e Seus Segredos (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACBNAESEUSGRDS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caçada (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACACDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cadeira do Diabo (DUB) - 2007 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACDRDODBO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caixa (DUB) - 2010 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACXA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caixa de Pandora (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACXDPNDRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caixa de Pandora (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACXADPNDRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Câmara do Medo (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACMRADMDO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caminho da Fé (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACMNHDFE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caminho da Lua (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACMNHDLUA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caminho de Casa (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/ACMHODCSA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Canção do Sul (DUB) - 1946 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACANCDSL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cartada Final (DUB) - 2001 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACRTDAFNL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACSA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa Amaldiçoada (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSAMLDCADA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa Assombrada (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/ACSASMVRDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa Caiu: Um Cassino na Vizinhança (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSCUCSNVIZ.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa da Árvore (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ACSDAVRE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa da Colina (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACSADCLNA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa de Cera (DUB) - 2005 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACSADCRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa De Hóspedes (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACSADHSPD.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa De Praia (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACSADPRIA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa de Vidro (DUB) - 2002 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACSADVDRO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa de Vidro 2 (DUB) - 2006 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACSADVDRO2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Espanto (DUB) - 1986 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSDESPNT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Espanto 2 (DUB) - 1987 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSDESPNT2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Espanto 4: Decisão para a Loucura (DUB) - 1992 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSDESPNT4.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Espanto III (DUB) - 1989 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSDESPNT3.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Lago (DUB) - 2006 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ACSADLGO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Medo (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACSDMDO2015.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Medo (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACSDMDO2018.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Medo: Incidente em Ghostland (DUB) - 2018 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACSDMDOINCDNEMGHSTLND.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Silêncio (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSDSLCN.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa do Terror (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACSADTERO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa dos Sonhos (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSDSNHS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa dos Vilões da Disney (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACSDSVLSDDSNY.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa Fim dos Tempos (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSDFMDSTMP.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa Inteligente (DUB) - 1999 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSINTLGNT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa Monstro (DUB) - 2006 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACSAMNTRO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Casa Silenciosa (DUB) - 2012 -1080p
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACSASLCNSA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caverna / Armadilha do Tempo (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACVRNA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Caverna: Perigo Subterrâneo (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACVRNPRGOSUB.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cela (DUB) - 2000 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACLA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Centopéia Humana (LEG) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACNTPHMNA1LEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Centopéia Humana 2 (LEG) - 2012
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACNTPHMNA2LEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Centopéia Humana 3 (LEG) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACNTPHMNA3LEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Chantagem (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACHTGM.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Chave Mestra (DUB) - 2005 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACHVMSTRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Chegada (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACHGDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cidade do Horror: Amityville (DUB) - 1979 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACIDHNR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cilada (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACLDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cinco Passos de Você (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/ACNCPASDVC.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Coisa (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACOISA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Coleção Invisível (Nacional) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACOLCINVSL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Colheita da Fé (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACLHTDFE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Colheita Maldita (DUB) - 2009 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACLHTMLDTA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Colina Escarlate (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACLNESCRLAT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Comédia Divina (Nacional) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACMDADVNA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Condenação (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACONDNCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Condessa Descalça (DUB) - 1954 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACNDSADSLCA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Confissão: The Confession (DUB) - 2011 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACNFSAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Conquista da Lua - Parte 1: Mercury (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ACNQSTDLUAPT1.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Conquista da Lua - Parte 2: Gemini e Apollo (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/ACNQSTDLUAPT2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Conquista do Planeta dos Macacos (DUB) - 1972 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer1/ondemand/PLNTDSMCMCS4.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Copa do Peru (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACOPDPRU.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cor da Amizade (DUB) - 2000 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACRDAMZDE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cor Púrpura (DUB) - 1985 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACORPRPRA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cor que Caiu do Espaço (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACRQCAINESPCO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Corrente do Mal (DUB) - 2010 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACRNTDML2010.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Corrente do Mal (LEG) - 2008 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ACRNTDMALLEG.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Corrida da Superação (DUB) - 2014 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACRDASPRCAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Creche do Papai (DUB) - 2003 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACRCHDPAPI.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Creche do Papai 3 (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ACRCHDPAPI3.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Criada (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer2/ondemand/ACRIDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Criança Escondida (DUB) - 2013 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACRNCESCNDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Criança Zombie (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACRNCESCNDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Criatura Sombria (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACRTRSMBR.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Culpa é das Estrelas (DUB) - 2014
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACLPEDSESTRLS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Culpa Foi do Macaco / Meu Pequeno Ladrão (DUB) - 1994 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACLPAFODMCACO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Culpa Não É Do Carma (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACLPNEDCMA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Cura (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ACUA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Dama do Espelho: O Ritual das Trevas (DUB) - 2015 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ADMDESPLHORTLDS.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Dama e o Vagabundo (DUB) - 1955 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ADMAEOVAGNDO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Dama e o Vagabundo (DUB) - 2019 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ADMEOVGNDO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Dama E O Vagabundo 2: As Aventuras De Banzé (DUB) - 2001 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ADMAEOVAGNDO2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Descoberta (DUB) - 2017 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ADSCBRT.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Despedida (DUB) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ADSPDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Deusa da Vingança: Sam Was Here (DUB) - 2016 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/SAMWSHRE.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Difícil Vingança (DUB) - 2012 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer3/ondemand/ADFCLVNGCA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Divisão (Nacional) - 2020 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ADVSAO.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Dupla Explosiva (DUB) - 1974 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/ADPLEXPL.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Encruzilhada (DUB) - 1986 
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer4/ondemand/AENCRZLHDA.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Entidade (DUB) - 2012 
-https://d3ds8rv98mfro3.cloudfront.net/RCFServer2/ondemand/AENTDADE1.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Entidade 2 (DUB) - 2015 
-https://d3ds8rv98mfro3.cloudfront.net/RCFServer2/ondemand/AENTDADE2.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Aguarde...", A Entrega (DUB) - 2015 
-https://d3ds8rv98mfro3.cloudfront.net/RCFServer3/ondemand/AENTRGA.mp4
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eXn7uPY.jpg" group-title="Lançamentos | 2021", A Assistente (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/AASISTNTE.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/AASISTNTE.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yXBznRK.jpg" group-title="Lançamentos | 2021", A Bruxa da Casa ao Lado (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ABRXDCSAOLDO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/ABRXDCSAOLDO.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oggUfOV.jpg" group-title="Lançamentos | 2021", A Escavação (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/AESCVCAO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/AESCVCAO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", A História Pessoal de David Copperfield (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/AHSTRPSLDVDCPFLD.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/AHSTRPSLDVDCPFLD.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Th7d9rA.jpg" group-title="Lançamentos | 2021", A Vida Em Um Ano (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/AVDEMUMANO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/AVDEMUMANO.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yjsnwjL.jpg" group-title="Lançamentos | 2021", Amor² (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/AMR2.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/AMR2.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Assassinos Sádicos (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ASASNSDCS.mp4v
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/ASASNSDCS.mp4v
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Batman: A Alma do Dragão (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/BTMNAALMDRGO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/BTMNAALMDRGO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Bia: Um Mundo do Avesso (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/BIAUMNDAVSO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/BIAUMNDAVSO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Bliss: Em Busca da Felicidade (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/BLSEMBSDFLCDE.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/BLSEMBSDFLCDE.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Brahms: Boneco do Mal 2 (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/BRHMBNCDMAL2.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/BRHMBNCDMAL2.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Cabana da Possessão (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/CBNADPSESAO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/CBNADPSESAO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Clouds (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/CLDS.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/CLDS.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Como Construir uma Garota (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/CMCNSTRUMGRTA.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/CMCNSTRUMGRTA.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Crack: Cocaína Corrupção e Conspiração (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/CRCKCOCNCRPCAOECSPRCAO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/CRCKCOCNCRPCAOECSPRCAO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Duelo no Asfalto (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/DUELNASFTO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/DUELNASFTO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", El Ascensor (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ELASCNSR.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/ELASCNSR.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Em Busca de 'Ohana (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/EMBSCDOHNA.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/EMBSCDOHNA.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Eu Me Importo (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/EUMEIMPRTO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/EUMEIMPRTO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Flora e Ulysses (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/FLREULYSES.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/FLREULYSES.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Full Out 2: You Got This! (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/FULOUT2GTHS.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/FULOUT2GTHS.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Garotos (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/GRTOS.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/GRTOS.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Isolado na Pandemia (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ISLDNPNDM.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/ISLDNPNDM.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Jiu Jitsu (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/JIUTTSU.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/JIUTTSU.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Luccas Neto em Acampamento de Férias 3 (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/LCSNTOEMACMPMTDFRS3.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/LCSNTOEMACMPMTDFRS3.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Malcolm & Marie (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/MLCLMEMRIE.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/MLCLMEMRIE.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Medo da Chuva (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer15/ondemand/MDODCHVA.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer15/ondemand/MDODCHVA.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Minha Querida Nora (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/MNHQRDANRA.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/MNHQRDANRA.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Minimalismo Já (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/MNMLSMOJA.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/MNMLSMOJA.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Monster Hunter (LEG) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer15/ondemand/MNSTRHNTRLEG.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer15/ondemand/MNSTRHNTRLEG.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Music (LEG) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/MSCLEG.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/MSCLEG.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Nova Ordem Espacial (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/NVORDMESPCL.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/NVORDMESPCL.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", O Caçador de Recompensas (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OCDRDRCMPS.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OCDRDRCMPS.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", O Homem Certo (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OHOMCRTO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OHOMCRTO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", O Mapa das Pequenas Coisas Perfeitas (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OMPADSPQNSCSPRFTS.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OMPADSPQNSCSPRFTS.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", O Mediador (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OMDADR.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OMDADR.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", O Príncipe Esquecido (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OPRNCPESQCDO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OPRNCPESQCDO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", O Tigre Branco (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OTGRBRNCO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OTGRBRNCO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", O Último Paraíso (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OULTMPRSO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OULTMPRSO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Os Croods 2: Uma Nova Era (LEG) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/OSCRDS2UNELEG.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/OSCRDS2UNELEG.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Pai em Dobro (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PAIEMDBRO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PAIEMDBRO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Palavras nas Paredes do Banheiro (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PLVRSNPRDSDBNHR.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PLVRSNPRDSDBNHR.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Palmer (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PLMR.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PLMR.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Pânico Abaixo de Zero (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PNCOABXODZRO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PNCOABXODZRO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Para Todos os Garotos: Agora e Para Sempre (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PRTDSOSGRTSAGREPRSMPR.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PRTDSOSGRTSAGREPRSMPR.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Pieces of a Woman (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PIECSOFAWMN.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PIECSOFAWMN.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Pole Dance: Dança do Poder (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PLEDNCDNCDPDR.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PLEDNCDNCDPDR.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Ponto Vermelho (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PNTVRMLHO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PNTVRMLHO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Posto de Combate (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/PSTDCMBTE.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/PSTDCMBTE.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Relatos do Mundo (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/RLTSDMNDO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/RLTSDMNDO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Scooby-Doo! e a Espad‪a (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/SCBYDOEAESPDA.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/SCBYDOEAESPDA.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Sombras do Terror (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/SMBSDTROR.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/SMBSDTROR.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Tony Parker: Entre os Maiores (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/TNYPRKENTROSMRS.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/TNYPRKENTROSMRS.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Um Caso de Detetive (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/UMCSODEDTVE.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/UMCSODEDTVE.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Uma Sereia em Paris (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/UMSRIAEMPRS.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/UMSRIAEMPRS.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Uma Última Vez (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/UMULTMVZ.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/UMULTMVZ.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Vovó Saiu do Armário (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/VOVSAIUDARMRIO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/VOVSAIUDARMRIO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Xico O Cachorro Mágico (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/XCOCHROMGCO.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/XCOCHROMGCO.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Lançamentos | 2021", Zona de Combate (DUB) - 2021
-https://d2jf7q6l8z8q9z.cloudfront.net/RCFServer5/ondemand/ZNDCMBTE.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCFServer5/ondemand/ZNDCMBTE.mp4
 
 
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 01 A Escuridão Para o Fogo							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP01.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP01.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 02 Forma e Vazia						
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP02.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP02.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 03 A Semente Má							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP03.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP03.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 04 Bebê							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP04.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP04.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 05 Thin Lizzie							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP05.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP05.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 06 Nosso Pequeno Mundo							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP06.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP06.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 07 Pelúcia							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP07.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP07.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 08 Apenas Minha Imaginação							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP08.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP08.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 09 O Irmão Onde Estás?							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP09.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP09.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 10 O Diabo Está Nos Detalhes							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP10.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP10.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 11 O Som do Silêncio							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP11.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP11.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 12  Não Se Esqueça de Mim							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP12.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP12.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 13 O Amor Machuca							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP13.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP13.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 14 O Navio							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP14.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP14.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 15 Além do Tapete							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP15.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP15.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 16 Casa Segura							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP16.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP16.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 17 Carne Vermelha							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP17.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP17.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 18 Anjo do Inferno							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP18.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP18.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 19 Os Gorjeios							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT11EP19.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT11EP19.mp4
 	
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 20 Não Me Chame de Shurley							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT11EP20.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT11EP20.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 21 Todos Em Família							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT11EP21.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT11EP21.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 22 Nós Poucos e Felizes							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT11EP22.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT11EP22.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 11ª Temp - EP 23 Alfa e Ômega							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT11EP23.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT11EP23.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 01 Mantenha a Calma e Continue
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP01.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP01.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 02 Mamma Mia
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP02.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP02.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 03 A Fundição
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP03.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP03.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 04 Pesadelo Americano
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP04.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP04.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 05 Aquele Que Você Estava Esperando
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP05.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP05.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 06 Celebrando a Vida de Asa Fox
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP06.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP06.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 07 O Rock Nunca Morre
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP07.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP07.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 08 Lótus
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP08.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP08.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 09 Primeiro Sangue
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP09.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP09.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 10 Lily Sunder Possui Alguns Arrependimentos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP10.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP10.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 11 Sobre Dean
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP11.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP11.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 12 Preso no Meio
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP12.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP12.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 13 Disputa Familiar
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP13.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP13.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 14 O Ataque
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP14.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP14.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 15 Em Algum Lugar Entre o Céu e o Inferno
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP15.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP15.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 16 Senhoras Bebem Livre
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP16.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP16.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 17 A Invasão Britânica
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP17.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP17.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 18 A Memória Permanece
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer11/ondemand/SPNT12EP18.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer11/ondemand/SPNT12EP18.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 19 O Futuro
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT12EP19.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT12EP19.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 20 Twigs & Twine & Tasha Banes
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT12EP20.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT12EP20.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 21 Há Algo Sobre Mary
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT12EP21.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT12EP21.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 22 Quem Nós Somos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT12EP22.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT12EP22.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 12ª Temp - EP 23 Ao Longo da Torre de Vigia
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT12EP23.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT12EP23.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 01 Achados e Perdidos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP01.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP01.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 02 O Filho em Ascensão
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP02.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP02.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 03 Paciência
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP03.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP03.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 04 O Grande Vazio
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP04.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP04.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 05 Tanatologia Avançada
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP05.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP05.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 06 Lápide
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP06.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP06.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 07 Guerra dos Mundos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP07.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP07.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 08 O Escorpião e o Sapo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP08.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP08.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 09 O Lugar Ruim
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP09.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP09.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 10 Irmãs Rebeldes
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP10.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP10.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 11 Colapso
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP11.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP11.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 12 Vilões Variados & Diversos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP12.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP12.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 13 O Negócio do Diabo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP13.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP13.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 14 Boas Intenções
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP14.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP14.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 15 Um Homem Muito Santo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP15.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP15.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 16 Scoobynatural
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP16.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP16.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 17 A Coisa
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP17.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP17.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 18 Traga-os de Volta Vivos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP18.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP18.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 19 Funeral
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP19.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP19.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 20 Negócios Inacabados
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP20.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP20.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 21 Combata o Diabo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP21.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP21.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 22 Êxodo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP22.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP22.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 13ª Temp - EP 23 Deixe os Bons Momentos Rolarem
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT13EP23.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT13EP23.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 01 Estranho Numa Terra Estranha
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT14EP01.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT14EP01.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 02 Deuses e Monstros
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer10/ondemand/SPNT14EP02.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer10/ondemand/SPNT14EP02.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 03 A Cicatriz
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer07/ondemand/SPNT14EP03.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer07/ondemand/SPNT14EP03.mp4
  
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 04 Ótima Condição
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT14EP04.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT14EP04.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 05 A Lógica do Pesadelo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT14EP05.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT14EP05.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 06 Otimismo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT14EP06.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT14EP06.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 07 Natureza Inumana
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT14EP07.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT14EP07.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 08 Bizâncio
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT14EP08.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT14EP08.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 09 A Lança
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT14EP09.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT14EP09.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 10 Niilismo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP10.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP10.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 11 Mercadorias Estragadas
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP11.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP11.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 12 Profeta e Perda
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP12.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP12.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 13 Lebanon
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP13.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP13.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 14 Ouroboros
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP14.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP14.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 15 Paz de Espírito
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP15.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP15.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 16 Não Vá Na Floresta
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP16.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP16.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 17 Noite de Jogos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP17.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP17.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 18 Ausência
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP18.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP18.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 19 Jack Na Caixa						
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP19.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP19.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 14ª Temp - EP 20 Moriah							
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer06/ondemand/SPNT14EP20.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer06/ondemand/SPNT14EP20.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 01 De Volta Para o Futuro
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT15EP01.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT15EP01.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 02 Elevando o Inferno
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT15EP02.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT15EP02.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 03 A Ruptura
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer12/ondemand/SPNT15EP03.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer12/ondemand/SPNT15EP03.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 04 Monstros Atômicos
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT15EP04.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT15EP04.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 05 Provérbios 17:3
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer13/ondemand/SPNT15EP05.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer13/ondemand/SPNT15EP05.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 06 Era Dourada
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT15EP06.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT15EP06.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 07 Última Chamada
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT15EP07.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT15EP07.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 08 Pai Nosso, Que Não Está no Céu
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT15EP08.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT15EP08.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 09 A Armadilha
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT15EP09.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT15EP09.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 10 A Jornada Dos Heróis
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer08/ondemand/SPNT15EP10.mp4	
+https://d3ds8rv98mfro3.cloudfront.net/RCServer08/ondemand/SPNT15EP10.mp4	
 						
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 11 Os Jogadores
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer14/ondemand/SPNT15EP11.mp4	
+https://d3ds8rv98mfro3.cloudfront.net/RCServer14/ondemand/SPNT15EP11.mp4	
 						
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 12 Cérebro de Galáxia
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer14/ondemand/SPNT15EP12.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer14/ondemand/SPNT15EP12.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 13 Filho do Destino
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer14/ondemand/SPNT15EP13.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer14/ondemand/SPNT15EP13.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 14 Ultimo Feriado
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer04/ondemand/SPNT15EP14.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer04/ondemand/SPNT15EP14.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 15 Me Dê Abrigo
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer04/ondemand/SPNT15EP15.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer04/ondemand/SPNT15EP15.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 16 Arraste-me Para Longe (De Você)
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer04/ondemand/SPNT15EP16.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer04/ondemand/SPNT15EP16.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 17 Unidade
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer04/ondemand/SPNT15EP17.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer04/ondemand/SPNT15EP17.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 18 Desespero
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer04/ondemand/SPNT15EP18.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer04/ondemand/SPNT15EP18.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 19 Herdar A Terra
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer04/ondemand/SPNT15EP19.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer04/ondemand/SPNT15EP19.mp4
 							
 #EXTINF: -1 tvg-logo="" group-title="Supernatural", 15ª Temp - EP 20 Continue
-https://d2jf7q6l8z8q9z.cloudfront.net/RCServer04/ondemand/SPNT15EP20.mp4
+https://d3ds8rv98mfro3.cloudfront.net/RCServer04/ondemand/SPNT15EP20.mp4
